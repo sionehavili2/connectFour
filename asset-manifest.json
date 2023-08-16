@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/connectFour/static/css/main.0ef41801.css",
+    "main.js": "/connectFour/static/js/main.ede524df.js",
+    "index.html": "/connectFour/index.html",
+    "main.0ef41801.css.map": "/connectFour/static/css/main.0ef41801.css.map",
+    "main.ede524df.js.map": "/connectFour/static/js/main.ede524df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef41801.css",
+    "static/js/main.ede524df.js"
+  ]
+}
